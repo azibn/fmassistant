@@ -26,4 +26,8 @@ A Football Manager assistant manager.
    pip install -r requirements.txt```
 
 2. **Edit API keys**
+- Create a `.env` file and paste your API key there. It should read as `ANTHROPIC_API_KEY=<APIKEY>`, and similarly for OpenAI (though still working on a few things). 
+- The `load_env()` function sorts out the loading of your API key.
 
+3. **Sort out your Champions League-winning tactics!**
+- By running `fmassistant`, you can now ask for advice on the best way to lead your team to victory!
