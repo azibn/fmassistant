@@ -20,10 +20,11 @@ A Football Manager assistant manager.
 ### Installation
 
 1. **Clone the repository**
-   ```bash
+   ```
    git clone https://github.com/yourusername/fm-assistant.git
    cd fm-assistant
-   pip install -r requirements.txt```
+   pip install -r requirements.txt
+   ```
 
 2. **Edit API keys**
 - Create a `.env` file and paste your API key there. It should read as `ANTHROPIC_API_KEY=<APIKEY>`, and similarly for OpenAI (though still working on a few things). 
