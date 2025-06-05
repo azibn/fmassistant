@@ -1,0 +1,2 @@
+[console_scripts]
+fmassistant = fmassistant.cli:main

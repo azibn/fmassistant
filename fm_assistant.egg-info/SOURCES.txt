@@ -1,0 +1,12 @@
+setup.py
+fm_assistant.egg-info/PKG-INFO
+fm_assistant.egg-info/SOURCES.txt
+fm_assistant.egg-info/dependency_links.txt
+fm_assistant.egg-info/entry_points.txt
+fm_assistant.egg-info/requires.txt
+fm_assistant.egg-info/top_level.txt
+fmassistant/__init__.py
+fmassistant/assistant.py
+fmassistant/cli.py
+tests/__init__.py
+tests/test_assistant.py
